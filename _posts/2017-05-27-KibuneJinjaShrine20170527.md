@@ -17,25 +17,20 @@ Kibune shrine is famous for autumn leaves, but I like blue leaves.
 ### 新緑
 
 ![貴船神社その1](../images/20170527/KibuneJinjyaShrine20170527-KBA00049.jpg)
-```
 参道 #新緑 #青紅葉 #神社 #shrine #japan #sonya99ii #CarlZeissJenaFlektogon #flektogon #oldlens #オールドレンズ #東独レンズ
-```
+
 ![貴船神社その2](../images/20170527/KibuneJinjyaShrine20170527-KBA00102.jpg)
-```
 舞台からの風景 #新緑 #青紅葉 #神社 #shrine #japan #sonya99ii #CarlZeissJenaFlektogon #flektogon #oldlens #オールドレンズ #東独レンズ
-```
+
 ![貴船神社その3](../images/20170527/KibuneJinjyaShrine20170527-KBA00119.jpg)
-```
 奥宮 #新緑 #青紅葉 #神社 #shrine #japan #sonya99ii #sigma
-```
+
 ![貴船神社その4](../images/20170527/KibuneJinjyaShrine20170527-KBA00140.jpg)
-```
 青紅葉 #新緑 #青紅葉 #神社 #shrine #japan #sonya99ii #sony
-```
+
 ![貴船神社その5](../images/20170527/KibuneJinjyaShrine20170527-KBA00173.jpg)
-```
-#新緑 #青紅葉 #神社 #shrine #japan #sonya99ii #sigma
-```
+青紅葉 #新緑 #青紅葉 #神社 #shrine #japan #sonya99ii #sigma
+`
 
 <br>
 <br>
