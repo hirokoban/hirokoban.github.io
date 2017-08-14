@@ -288,6 +288,12 @@ nav {
   background-color: $lightGray;
 }
 
+.mapmarker:before {
+  font-family: FontAwesome;
+  content: '\f041';
+  color: #b7282e;
+}
+
 footer {
   padding: 20px 0;
   text-align: center;
