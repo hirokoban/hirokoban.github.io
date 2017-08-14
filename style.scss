@@ -288,10 +288,17 @@ nav {
   background-color: $lightGray;
 }
 
+.mapmarker {
+  font-size: 20px;
+}
 .mapmarker:before {
   font-family: FontAwesome;
+  font-size: 3em;
   content: '\f041';
   color: #b7282e;
+  display: inline-block;/*inline-blockなら幅が指定できる*/
+  width: 1.2em;/*文字の1.2倍の横幅に*/
+  text-align: center;/*その中で中央寄せ*/
 }
 
 footer {
