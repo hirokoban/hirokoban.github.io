@@ -310,6 +310,17 @@ nav {
   color: #0094c8;
 }
 
+.hashtag {
+  font-size: 10px;
+  font-weight: bold;
+}
+.hashtag:before {
+  font-family: FontAwesome;
+  font-size: 16px;
+  content: '\f292';
+  color: #1f3134;
+}
+
 footer {
   padding: 20px 0;
   text-align: center;
