@@ -13,6 +13,9 @@ title: 2017年08月17日 宗像大社
   
 
 <span class="fukidashi">&nbsp;宗像大社</span>
+<div class="balloon1-left">
+<p>宗像大社</p>
+</div>
 
 「宗像大社」といえば、ここのことですね。  
 正確には「宗像大社辺津宮」とのことです。  
