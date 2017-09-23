@@ -328,8 +328,9 @@ nav {
  min-width: 120px;
   max-width: 100%;
   color: #555;
- font-size: 16px;
- background: #e0edff;
+ font-size: 20px;
+ font-weight: bold;
+ background: #0094c8;
 }
 
 .balloon1-left:before{
@@ -339,7 +340,7 @@ nav {
  left: -30px;
   margin-top: -15px;
  border: 15px solid transparent;
- border-right: 15px solid #e0edff;
+ border-right: 15px solid #0094c8;
 }
 
 .balloon1-left p {
